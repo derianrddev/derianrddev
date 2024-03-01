@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at [https://derianrodriguezduran.netlify.app/](https://derianrodriguezduran.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://derian-portfolio.netlify.app/](https://derian-portfolio.netlify.app/)
 
 - 📫 How to reach me **dmrodriguez2000@gmail.com**
 
