@@ -6,7 +6,7 @@
 
 - 💻 I'm a **Computer Engineer**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://derian-portfolio.netlify.app/](https://derian-portfolio.netlify.app/)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/derian-rodríguez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derian-rodríguez22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/derian-rodriguez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derian-rodríguez22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
