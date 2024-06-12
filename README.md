@@ -6,7 +6,7 @@
 
 - 💻 I'm a **Computer Engineer**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://derian-portfolio.netlify.app/](https://derian-portfolio.netlify.app/)
 
