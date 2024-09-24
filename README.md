@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derianrddev&label=Profile%20views&color=0e75b6&style=flat" alt="derianrddev" /> </p>
 
-- 💻 I'm a **Computer Engineer**
+- 💻 Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/)
 
 - 🌱 I’m currently learning **blockchain technologies**
 
