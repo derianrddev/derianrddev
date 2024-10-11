@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Derian</h1>
-<h3 align="center">A passionate software engineer from Costa Rica</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h1 align="center">Hi, I'm Derian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFtNTlnaHNiMWIyYjB2ZnV1bTN2NDhxZmlncXN4eWp0cXdmYzdxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derianrddev&label=Profile%20views&color=0e75b6&style=flat" alt="derianrddev" /> </p>
+<h3>👨‍💻 About Me</h3>
+<p>I'm <strong>Derian Martín Rodríguez Durán</strong>, a dedicated <strong>Full Stack Developer</strong> with over a year of experience in software development. I’m passionate about building both frontend and backend solutions, constantly improving my skills through continuous learning and hands-on projects. Currently, I'm diving into the exciting world of <strong>Blockchain technologies (Web3)</strong> to expand my expertise in decentralized systems.</p>
 
-- 💻 Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/)
+<h3>🚀 Key Highlights</h3>
+<ul>
+  <li>💻 Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/) </li>
+  <li>🖥️ <strong>+1 year of professional experience</strong> as a <strong>Full Stack Developer</strong>.</li>
+  <li>🧑‍🎓 Currently learning <strong>Blockchain</strong> and <strong>Web3</strong> technologies.</li>
+  <li>💡 Passionate about learning and staying updated with the latest technologies.</li>
+</ul>
 
-- 🌱 I’m currently learning **blockchain technologies**
+## <h3 align="left">Connect with me:</h3>
+<div align="left">
 
-- 👨‍💻 All of my projects are available at [https://derian-portfolio.netlify.app/](https://derian-portfolio.netlify.app/)
+<a href="www.linkedin.com/in/derian-rodriguez22" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  Derian-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+</a>
 
-- 📫 How to reach me **dmrodriguez2000@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/derian-rodriguez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derian-rodríguez22" height="30" width="40" /></a>
+<a href="mailto:dmrodriguez2000@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  dmrodriguez2000-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+	
+</div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/html5/original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/css3/original.svg" />
+<img align="left" alt="Bootstap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/javascript/original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/git/original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/angularjs/plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
+<img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/postgresql/original.svg" />
+          
+          
+
+<br />
+
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://svgl.app/library/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derianrddev&show_icons=true&locale=en&layout=compact" alt="derianrddev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derianrddev&show_icons=true&locale=en" alt="derianrddev" /></p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derianrddev&" alt="derianrddev" /></p>
+
+<div align="center">
+
+<a href="https://github.com/derianrddev/">
+  <img src="https://github-readme-stats.vercel.app/api?username=derianrddev&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=derianrddev&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+
+<br>
+<br>
+<br>
 
