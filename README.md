@@ -4,7 +4,7 @@
 </div>
 
 <h3>👨‍💻 About Me</h3>
-<p>I'm <strong>Derian Martín Rodríguez Durán</strong>, a dedicated <strong>Full Stack Developer</strong> with over a year of experience in software development. I’m passionate about building both frontend and backend solutions, constantly improving my skills through continuous learning and hands-on projects. Currently, I'm diving into the exciting world of <strong>Blockchain technologies (Web3)</strong> to expand my expertise in decentralized systems.</p>
+<p>I'm <strong>Derian</strong>, a dedicated <strong>Full Stack Developer</strong> with over a year of experience in software development. I’m passionate about building both frontend and backend solutions, constantly improving my skills through continuous learning and hands-on projects. Currently, I'm diving into the exciting world of <strong>Blockchain technologies (Web3)</strong> to expand my expertise in decentralized systems.</p>
 
 <h3>🚀 Key Highlights</h3>
 <ul>
