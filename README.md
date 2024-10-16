@@ -51,8 +51,29 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
-<img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/postgresql/original.svg" />
+          
+          
+
+<br />
+
+
+</p>
+
+<br>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
+<br>
+
+<p align="center">
+
+
+
+<img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" />
+<img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/solidity/original.svg" />
           
           
 
