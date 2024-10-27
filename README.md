@@ -17,14 +17,14 @@
 ## <h3 align="left">Connect with me:</h3>
 <div align="left">
 
-<a href="www.linkedin.com/in/derian-rodriguez22" target="_blank">
+<a href="https://www.linkedin.com/in/derian-rodriguez22" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:  Derian-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
 <a href="mailto:dmrodriguez2000@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dmrodriguez2000-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+     <img src="https://img.shields.io/badge/gmail:  dmrodriguez2000-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
 </div>
