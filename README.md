@@ -40,7 +40,6 @@
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/html5/original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/css3/original.svg" />
-<img align="left" alt="Bootstap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/javascript/original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
