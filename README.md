@@ -46,6 +46,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/git/original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nextjs/original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/angularjs/plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
