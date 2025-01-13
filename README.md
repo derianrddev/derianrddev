@@ -9,7 +9,7 @@
 <h3>🚀 Key Highlights</h3>
 <ul>
   <li>💻 Software Engineering honors graduate from <a href="https://www.tec.ac.cr/" target="_blank">El Tecnológico de Costa Rica</a>.</li>
-  <li>🖥️ <strong>+2 year of professional experience</strong> as a <strong>Full Stack Developer</strong>.</li>
+  <li>🖥️ <strong>+2 years of professional experience</strong> as a <strong>Full Stack Developer</strong>.</li>
   <li>🧑‍🎓 Currently learning <strong>Blockchain</strong> and <strong>Web3</strong> technologies.</li>
   <li>💡 Passionate about learning and staying updated with the latest technologies.</li>
 </ul>
