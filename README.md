@@ -49,6 +49,7 @@
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nextjs/original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/angularjs/plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
+<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/postgresql/original.svg" />
