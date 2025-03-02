@@ -74,7 +74,7 @@
 
 <img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" />
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/solidity/original.svg" />
-<img align="left" alt="Stellar" width="30px" style="padding-right:10px;" src="https://cryptologos.cc/logos/stellar-xlm-logo.png" />
+<img align="left" alt="Stellar" width="35px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/10/stellar-logo-freelogovectors.net_.png" />
 <img align="left" alt="Starknet" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1834202903189618688/N4J8emeY_400x400.png" />
 <img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" />
           
