@@ -36,34 +36,12 @@
 
 <p align="center">
 
-
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/html5/original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/css3/original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/javascript/original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/git/original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nextjs/original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/angularjs/plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nodejs/original.svg" />
-<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" />
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/postgresql/original.svg" />
-          
-          
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,nextjs,angular,nodejs,nestjs,postgres)](https://skillicons.dev)
 
 <br />
 
 
 </p>
-
-<br>
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
 <br>
@@ -74,8 +52,8 @@
 
 <!-- <img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" /> -->
 <!-- <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/solidity/original.svg" /> -->
-<img align="left" alt="Stellar" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/10/stellar-logo-freelogovectors.net_.png" /> 
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/rust/plain.svg" /> 
+<!-- <img align="left" alt="Stellar" width="35px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/10/stellar-logo-freelogovectors.net_.png" /> -->
+[![Learning](https://skillicons.dev/icons?i=rust,supabase)](https://skillicons.dev)
 <!-- <img align="left" alt="Starknet" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1834202903189618688/N4J8emeY_400x400.png" /> -->
 <!-- <img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" /> -->
           
@@ -86,7 +64,6 @@
 
 </p>
 
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
