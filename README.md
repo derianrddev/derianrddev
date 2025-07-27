@@ -36,7 +36,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,nextjs,angular,nodejs,nestjs,postgres,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,nextjs,angular,nodejs,express,nestjs,postgres,supabase)](https://skillicons.dev)
 
 <br />
 
