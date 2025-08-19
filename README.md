@@ -36,7 +36,8 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,nextjs,nodejs,express,nestjs,postgres,supabase)](https://skillicons.dev)
+<!-- https://builder.syvixor.com/ -->
+[![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,tailwindcss,javascript,typescript,git,github,reactjs,reactquery,reacthookform,zod,nextjs,shadcnui,nodejs,expressjs,nestjs,postgresql,supabase)](https://skills.syvixor.com)
 
 <br />
 
@@ -53,7 +54,7 @@
 <!-- <img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" /> -->
 <!-- <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/solidity/original.svg" /> -->
 <!-- <img align="left" alt="Stellar" width="35px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/10/stellar-logo-freelogovectors.net_.png" /> -->
-[![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![Learning](https://skills.syvixor.com/api/icons?i=rust)](https://skills.syvixor.com)
 <!-- <img align="left" alt="Starknet" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1834202903189618688/N4J8emeY_400x400.png" /> -->
 <!-- <img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" /> -->
           
