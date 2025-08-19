@@ -34,38 +34,34 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
-
 <!-- https://builder.syvixor.com/ -->
-[![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,tailwindcss,javascript,typescript,git,github,reactjs,reactquery,reacthookform,zod,nextjs,shadcnui,nodejs,expressjs,nestjs,postgresql,supabase)](https://skills.syvixor.com)
-
-<br />
-
-
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=html"         alt="HTML"         title="HTML"         width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=css3"         alt="CSS3"         title="CSS3"         width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=tailwindcss"  alt="TailwindCSS"  title="TailwindCSS"  width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript"   alt="JavaScript"   title="JavaScript"   width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript"   alt="TypeScript"   title="TypeScript"   width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=git"          alt="Git"          title="Git"          width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=github"       alt="GitHub"       title="GitHub"       width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=reactjs"      alt="React"        title="React"        width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=reactquery"   alt="React Query"  title="React Query"  width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=reacthookform"alt="React Hook Form" title="React Hook Form" width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=zod"          alt="Zod"          title="Zod"          width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=nextjs"       alt="Next.js"      title="Next.js"      width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=shadcnui"     alt="shadcn/ui"    title="shadcn/ui"    width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=nodejs"       alt="Node.js"      title="Node.js"      width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=expressjs"    alt="Express"      title="Express"      width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=nestjs"       alt="NestJS"       title="NestJS"       width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql"   alt="PostgreSQL"   title="PostgreSQL"   width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=supabase"     alt="Supabase"     title="Supabase"     width="60" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
 <br>
 
-<p align="center">
-
-
-
-<!-- <img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" /> -->
-<!-- <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/solidity/original.svg" /> -->
-<!-- <img align="left" alt="Stellar" width="35px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/10/stellar-logo-freelogovectors.net_.png" /> -->
-[![Learning](https://skills.syvixor.com/api/icons?i=rust)](https://skills.syvixor.com)
-<!-- <img align="left" alt="Starknet" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1834202903189618688/N4J8emeY_400x400.png" /> -->
-<!-- <img align="left" alt="Cairo" width="30px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" /> -->
-          
-          
-
-<br />
-
-
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=rust" alt="Rust" title="Rust" width="60" />
 </p>
-
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
