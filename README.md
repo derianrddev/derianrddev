@@ -37,7 +37,7 @@
 <!-- https://builder.syvixor.com/ -->
 <p>
   <img src="https://skills.syvixor.com/api/icons?i=html"         alt="HTML"         title="HTML"         width="60" />
-  <img src="https://skills.syvixor.com/api/icons?i=css3"         alt="CSS3"         title="CSS3"         width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=css3"         alt="CSS3"         title="CSS"         width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=tailwindcss"  alt="TailwindCSS"  title="TailwindCSS"  width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=javascript"   alt="JavaScript"   title="JavaScript"   width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=typescript"   alt="TypeScript"   title="TypeScript"   width="60" />
