@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=derianrddev&theme=aura&hide_border=false&include_all_commits=false&show_icons=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api?username=derianrddev&theme=aura&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=derianrddev&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=derianrddev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
 </div>
