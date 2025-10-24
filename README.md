@@ -77,6 +77,7 @@
 
 <p>
   <img src="https://skills.syvixor.com/api/icons?i=rust" alt="Rust" title="Rust" width="60" />
+	<img src="https://skills.syvixor.com/api/icons?i=n8n" alt="n8n" title="n8n" width="60" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
