@@ -77,7 +77,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=rust" alt="Rust" title="Rust" width="60" />
 	<img src="https://skills.syvixor.com/api/icons?i=n8n" alt="n8n" title="n8n" width="60" />
 </p>
 
