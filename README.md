@@ -4,12 +4,12 @@
 </div>
 
 <h3>👨‍💻 About Me</h3>
-<p>I'm <strong>Derian</strong>, a dedicated <strong>Full Stack Developer</strong> with over 2.5 years of experience in software development. I’m passionate about building both frontend and backend solutions, constantly improving my skills through continuous learning and hands-on projects. Currently, I'm diving into the exciting world of <strong>Blockchain technologies (Web3)</strong> to expand my expertise in decentralized systems.</p>
+<p>I'm <strong>Derian</strong>, a dedicated <strong>Full Stack Developer</strong> with over 3 years of experience in software development. I’m passionate about building both frontend and backend solutions, constantly improving my skills through continuous learning and hands-on projects. Currently, I'm diving into the exciting world of <strong>Blockchain technologies (Web3)</strong> to expand my expertise in decentralized systems.</p>
 
 <h3>🚀 Key Highlights</h3>
 <ul>
   <li>💻 Software Engineering honors graduate from <a href="https://www.tec.ac.cr/" target="_blank">El Tecnológico de Costa Rica</a>.</li>
-  <li>🖥️ <strong>+2.5 years of professional experience</strong> as a <strong>Full Stack Developer</strong>.</li>
+  <li>🖥️ <strong>+3 years of professional experience</strong> as a <strong>Full Stack Developer</strong>.</li>
   <li>🧑‍🎓 Currently learning <strong>Blockchain</strong> and <strong>Web3</strong> technologies.</li>
   <li>💡 Passionate about learning and staying updated with the latest technologies.</li>
 </ul>
