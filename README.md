@@ -57,6 +57,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=nodejs"       alt="Node.js"          title="Node.js"          width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=expressjs"    alt="Express"          title="Express"          width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=nestjs"       alt="NestJS"           title="NestJS"           width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=graphql"      alt="GraphQL"          title="GraphQL"          width="60" />
 </p>
 
 <!-- 🗄️ Databases -->
