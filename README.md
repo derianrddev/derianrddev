@@ -49,6 +49,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=reactquery"   alt="React Query"      title="React Query"      width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=reacthookform"alt="React Hook Form"  title="React Hook Form"  width="60" />
   <img src="https://skills.syvixor.com/api/icons?i=zod"          alt="Zod"              title="Zod"              width="60" />
+  <img src="https://skills.syvixor.com/api/icons?i=zustand"      alt="Zustand"          title="Zustand"          width="60" />
 </p>
 
 <!-- ⚙️ Backend -->
