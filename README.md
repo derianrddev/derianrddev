@@ -81,6 +81,7 @@
 
 <p>
 	<img src="https://skills.syvixor.com/api/icons?i=googlecloud" alt="Google Cloud Platform" title="Google Cloud Platform" width="60" />
+	<img src="https://skills.syvixor.com/api/icons?i=googlecloudstorage" alt="Google Cloud Platform" title="Google Cloud Storage" width="60" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
